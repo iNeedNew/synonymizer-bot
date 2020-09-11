@@ -1,0 +1,5 @@
+venv-tg-bot/
+db_words.sqlite
+
+.idea/
+.idea/*
